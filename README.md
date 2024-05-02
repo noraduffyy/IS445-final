@@ -1,6 +1,9 @@
 Nora Duffy
+
 Professor Uhe
+
 IS 445- Data Visualization
+
 Final Project
 
 Biggest Takeaway from this class:
